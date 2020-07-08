@@ -4,3 +4,4 @@
 # YOUR CODE HERE
 print(pow(2,65536))
 print(2 ** 65536)
+# js --> infinity
